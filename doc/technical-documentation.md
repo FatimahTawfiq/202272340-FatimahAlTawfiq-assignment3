@@ -61,9 +61,13 @@ The website was tested on Google Chrome with a simulatiom for veraity number of 
 
 # 8. Web Preformance
 To improve my web preformance I remove the redundent code in the CSS file by combining the similar parts in the wepage, and I compress multible images that have a larg size:
+
 Student Impact Hup web interface image size reduced from 3052 KB to 379 KB.
+
 KFUPM CAMPUS ROUTE & SCHEDULE VISUALIZATION APP image size reduced from 1944 KB to 309 KB.
+
 Student Impact Hup web interface image size reduced from 249 KB to 51 KB.
+
 Other images did not compressed because there size is already small.
 
 I have tested my website preformance using Lighthouse and get these results.
