@@ -41,6 +41,8 @@ This section include a form that is compined of The sender name email and the me
 * You can change the color theme by clicking in the moon icon to naviate to dark mode
 * You can change the color theme by clicking in the sun icon to naviate to light mode
 * You can view specific project field by clicking on the intended one in in the bar below My Projects
+* You can sort projects based on oldest to newest by clicking on Olde to new button
+* You can sort projects based on newest to oldest by clicking onNew to old button
 * You can send me a message by writting your name, email, and your message in Contact section and then clicking the Send Message button.
 
 # AI useage
