@@ -33,6 +33,7 @@ For device compatibility, Gemini advise me to add meta data for taking the scree
 To add the counter in the website I asked Gemini to give me a way to call a function frequantly in a predefined time interval to abdate the time. It respounce with giving me the setInterval function with this example:
 
 // Runs every 3 seconds forever
+
 setInterval(() => console.log("This runs repeatedly"), 3000);
 
 where the first parameter for the function and the second one for the time interval in milliseconds.
@@ -57,7 +58,10 @@ console.log(username); // "JohnDoe"
 The parameter for localStorage.setItem are string key and string value stored in the browser's local storage.
 The parameter for localStorage.getItem is only the key and return the key value
 
-I asked Deepseek for a posible API quote that can be added to my personal profile. It list multible API but after seeing come of there quotes I choose quoteslate.vercel.app/api/quotes/random.
+I asked Deepseek for a posible API quote that can be added to my personal profile. It list multible API but after seeing come of there quotes I choose
+```
+http://quoteslate.vercel.app/api/quotes/random
+```
 
 ## Benefits & Challenges:
 
